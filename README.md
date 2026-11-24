@@ -5,7 +5,7 @@
 
 Revision tecnica de metadatos HTML, analisis de longitud de titulos y descripciones, tarjetas para redes sociales y directivas de rastreo.
 
-Desarrollado y mantenido por el area de tecnologia web y posicionamiento de **TAVARDT Espana**.
+Desarrollado y mantenido por el area de tecnologia web y posicionamiento de **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python meta_inspector.py ejemplo.es -json
 Para previsualizaciones graficas y auditorias inmediatas:
 
 * **Inspector de Meta Tags Oficial**
-* **[Portal Corporativo TAVARDT Espana](https://ag.tavardt.com/es/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/es/)**
 
 ***
 
 ## Consultoria en SEO Tecnico y Presencia Web
 
-Para optimizaciones avanzadas de arquitectura web segun Estandares Web y Directrices de Busqueda, contacte a **TAVARDT Espana**.
+Para optimizaciones avanzadas de arquitectura web segun Estandares Web y Directrices de Busqueda, contacte a **TAVARDT**.
 
 ***
 
