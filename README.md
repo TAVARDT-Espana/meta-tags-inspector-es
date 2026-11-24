@@ -1,14 +1,13 @@
 # Inspector de Meta Tags y Open Graph | TAVARDT Espana
 
 [![Inspector Meta Tags](https://img.shields.io/badge/TAVARDT-Meta%20Tags-5b3cf5.svg)](https://tools.tavardt.com/es/analizador-meta-tags-seo/)
-[![Jurisdiccion](https://img.shields.io/badge/Jurisdiccion-Espana-00C853.svg)](https://ag.tavardt.com/es/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Revision tecnica de metadatos HTML, analisis de longitud de titulos y descripciones, tarjetas para redes sociales y directivas de rastreo.
 
-Desarrollado y mantenido por el area de tecnologia web y posicionamiento de **[TAVARDT Espana](https://ag.tavardt.com/es/)**.
+Desarrollado y mantenido por el area de tecnologia web y posicionamiento de **TAVARDT Espana**.
 
----
+***
 
 ## Capacidades de Auditoria de Metadatos y Redes Sociales
 
@@ -18,7 +17,7 @@ Desarrollado y mantenido por el area de tecnologia web y posicionamiento de **[T
 * **Directivas de Indexabilidad**: Control de etiquetas robots y enlaces canonicos.
 * **Calificacion de Calidad de Fragmento**: Puntuacion objetiva de 0 a 100 con guia paso a paso de optimizacion.
 
----
+***
 
 ## Instalacion y Uso
 
@@ -33,20 +32,20 @@ python meta_inspector.py ejemplo.es
 Para formato estructurado JSON:
 
 ```bash
-python meta_inspector.py ejemplo.es --json
+python meta_inspector.py ejemplo.es -json
 ```
 
----
+***
 
 ## Herramienta en la Nube
 
 Para previsualizaciones graficas y auditorias inmediatas:
 
-* **[Inspector de Meta Tags Oficial](https://tools.tavardt.com/es/analizador-meta-tags-seo/)**
+* **Inspector de Meta Tags Oficial**
 * **[Portal Corporativo TAVARDT Espana](https://ag.tavardt.com/es/)**
 
----
+***
 
 ## Consultoria en SEO Tecnico y Presencia Web
 
-Para optimizaciones avanzadas de arquitectura web segun Estandares Web y Directrices de Busqueda, contacte a **[TAVARDT Espana](https://ag.tavardt.com/es/contacto/)**.
+Para optimizaciones avanzadas de arquitectura web segun Estandares Web y Directrices de Busqueda, contacte a **TAVARDT Espana**.
