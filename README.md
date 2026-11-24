@@ -1,4 +1,4 @@
-# Inspector de Meta Tags y Open Graph | TAVARDT Espana
+# Inspector de Meta Tags y Open Graph
 
 [![Inspector Meta Tags](https://img.shields.io/badge/TAVARDT-Meta%20Tags-5b3cf5.svg)](https://tools.tavardt.com/es/analizador-meta-tags-seo/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ Para previsualizaciones graficas y auditorias inmediatas:
 ## Consultoria en SEO Tecnico y Presencia Web
 
 Para optimizaciones avanzadas de arquitectura web segun Estandares Web y Directrices de Busqueda, contacte a **TAVARDT Espana**.
+
+***
+
+© 2026 TAVARDT. Todos los derechos reservados.
