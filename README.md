@@ -6,8 +6,6 @@
 
 Revision tecnica de metadatos HTML, analisis de longitud de titulos y descripciones, tarjetas para redes sociales y directivas de rastreo.
 
-Desarrollado y mantenido por el area de tecnologia web y posicionamiento de **TAVARDT**.
-
 ***
 
 ## Capacidades de Auditoria de Metadatos y Redes Sociales
@@ -38,15 +36,6 @@ python meta_inspector.py ejemplo.es -json
 
 ***
 
-## Herramienta en la Nube
-
-Para previsualizaciones graficas y auditorias inmediatas:
-
-* **Inspector de Meta Tags Oficial**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/es/)**
-
-***
-
 ## Consultoria en SEO Tecnico y Presencia Web
 
 Para optimizaciones avanzadas de arquitectura web segun Estandares Web y Directrices de Busqueda, contacte a **TAVARDT**.
@@ -62,7 +51,7 @@ Para optimizaciones avanzadas de arquitectura web segun Estandares Web y Directr
 ***
 
 ### Licencia
-Distribuido bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para obtener más detalles.
+Distribuido bajo la Licencia MIT.
 
 ***
 
