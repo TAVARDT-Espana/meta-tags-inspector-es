@@ -2,6 +2,7 @@
 
 [![Inspector Meta Tags](https://img.shields.io/badge/TAVARDT-Meta%20Tags-5b3cf5.svg)](https://tools.tavardt.com/es/analizador-meta-tags-seo/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Revision tecnica de metadatos HTML, analisis de longitud de titulos y descripciones, tarjetas para redes sociales y directivas de rastreo.
 
@@ -57,6 +58,11 @@ Para optimizaciones avanzadas de arquitectura web segun Estandares Web y Directr
 * **Portal Corporativo:** https://ag.tavardt.com/es/
 * **Suite de Diagnósticos:** https://tools.tavardt.com/es/
 * **Contacto Técnico:** https://ag.tavardt.com/es/contacto/
+
+***
+
+### Licencia
+Distribuido bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para obtener más detalles.
 
 ***
 
